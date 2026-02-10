@@ -1,6 +1,6 @@
 # 💫 About Me:
-# 👋 Muhammad Laiq Ali  
-### AI Solutions Architect | Technical Leader | Software Engineer
+## 👋 Muhammad Laiq Ali  
+### AI Solutions Architect | Technical Leader | DevOps | Software Engineer
 
 With over **11 years of industry experience**, I specialize in designing and delivering **AI-powered, scalable, and production-grade software systems**.  
 
