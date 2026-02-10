@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Muhammad Laiq Ali  
 ### AI Solutions Architect | Technical Leader | DevOps | Software Engineer
 
