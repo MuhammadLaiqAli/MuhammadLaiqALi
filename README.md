@@ -9,6 +9,7 @@ I have led engineering teams, trained AI models, architected complex platforms, 
 My work sits at the intersection of **Artificial Intelligence, distributed systems, and modern full-stack engineering.**
 
 📬 Email: [laiqazhar456@gmail.com](mailto:laiqazhar456@gmail.com)
+
 ---
 
 ## 🧠 Core Expertise
