@@ -1,11 +1,8 @@
 ## 👋 Muhammad Laiq Ali  
-### AI Solutions Architect | Technical Leader | DevOps | Software Engineer
+### Lead AI Engineer | Senior Full-Stack Developer | AI Automation Architect | Machine Learning Engineer | Django & Flask Backend Engineer | SaaS Platform Builder | Building & Scaling Intelligent Products
 
-With over **11 years of industry experience**, I specialize in designing and delivering **AI-powered, scalable, and production-grade software systems**.  
 
-I have led engineering teams, trained AI models, architected complex platforms, and built intelligent applications that solve real-world business problems.
-
-My work sits at the intersection of **Artificial Intelligence, distributed systems, and modern full-stack engineering.**
+Lead AI Engineer and Senior Full-Stack Developer with **7+ years** of hands-on experience across 6 engineering roles, covering AI automation, machine learning pipelines, Python/Django/Flask backends, REST APIs, enterprise SaaS platforms, and full-stack product delivery. Delivered or contributed to 15+ AI, SaaS, analytics, healthcare, real-estate, education, marketplace, and operations platforms across 10+ business domains. Owns end-to-end delivery across 5 ML/product stages: data preprocessing, feature engineering, model training, backend/API implementation, and deployment-ready automation. Strong record of building production-oriented systems using LAMP, MEAN, MERN, Django, Flask, microservices, Zapier workflows, database optimization, cloud deployment, and enterprise integrations, with a focus on maintainable architecture, workflow quality, and data-driven decision support.
 
 📬 Email: [laiqazhar456@gmail.com](mailto:laiqazhar456@gmail.com)
 
