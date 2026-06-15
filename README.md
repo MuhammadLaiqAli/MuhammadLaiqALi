@@ -5,7 +5,7 @@
 
 ### Lead AI Engineer · Senior Full-Stack Developer · AI Automation Architect
 
-**AI Automation Lead @ Sovanza** · Lahore, Pakistan · FAST-NUCES (BS Software Engineering)
+**AI Automation Lead @ Sovanza** · Lahore, Pakistan · **MS Data Science** @ FAST-NUCES (continuing) · BS Software Engineering (2018)
 
 Lead AI engineer with **7+ years** of experience building AI automation, ML pipelines, and enterprise SaaS on **Python, Django, Flask, LAMP, MEAN, and MERN**. I deliver **15+ products** across healthcare, real estate, education, marketplaces, and operations—from **data preprocessing and feature engineering** through **model training, backend APIs, and deployment-ready automation**.
 
@@ -25,7 +25,9 @@ Lead AI engineer with **7+ years** of experience building AI automation, ML pipe
 ```yaml
 name: Muhammad Laiq Ali
 location: Lahore, Pakistan
-education: BS Software Engineering — FAST-NUCES (2014–2018)
+education:
+  - MS Data Science (In Progress) — FAST-NUCES, Lahore
+  - BS Software Engineering — FAST-NUCES, Lahore (2014–2018)
 current_role: AI Automation Lead & ML Analyst @ Sovanza (Apr 2024 – Present)
 titles:
   - Lead AI Engineer
@@ -157,21 +159,6 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 ---
 
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/MuhammadLaiqAli/NexusForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadLaiqAli&repo=NexusForge&theme=react&hide_border=true&border_radius=12&title_color=58A6FF&bg_color=0d1117" alt="NexusForge" />
-</a>
-<a href="https://github.com/MuhammadLaiqAli/pitch-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadLaiqAli&repo=pitch-agent&theme=react&hide_border=true&border_radius=12&title_color=58A6FF&bg_color=0d1117" alt="pitch-agent" />
-</a>
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -223,6 +210,7 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 | Degree | Institution | Years |
 |--------|-------------|-------|
+| **MS Data Science** *(In Progress)* | FAST National University of Computer and Emerging Sciences — Lahore | **Continuing** |
 | **BS Software Engineering** | FAST National University of Computer and Emerging Sciences — Lahore | **2014 – 2018** |
 
 ---
@@ -246,7 +234,7 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 | | |
 |---|---|
-| **Experience** | 7+ years · 6 roles · FAST-NUCES graduate (2018) |
+| **Experience** | 7+ years · 6 roles · MS Data Science @ FAST-NUCES (continuing) · BS SE (2018) |
 | **Current** | Lead AI / ML @ **Sovanza** — automation, pipelines, enterprise APIs |
 | **Products** | **15+** platforms across **10+** business domains |
 | **ML delivery** | 5-stage pipelines from raw data to deployment-ready automation |
