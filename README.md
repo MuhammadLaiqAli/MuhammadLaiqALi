@@ -20,7 +20,7 @@ Lead AI engineer with **7+ years** of experience building AI automation, ML pipe
 
 ---
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=90&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&animation=twinkling" alt="About Me"/>
 
 ```yaml
 name: Muhammad Laiq Ali
@@ -52,66 +52,149 @@ contact:
 
 ---
 
-## GitHub Achievements
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=GitHub%20Achievements&fontSize=26&fontColor=ffffff&animation=twinkling" alt="GitHub Achievements"/>
 
 <div align="center">
 
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| **Galaxy Brain** | **Pair Extraordinaire** ×2 | **YOLO** | **Quickdraw** | **Pull Shark** |
-| Accepted answers | Co-authored delivery | Ship with confidence | Move fast | Merged PRs |
+<a href="https://github.com/MuhammadLaiqAli?tab=achievements">
+  <img src="https://img.shields.io/badge/🏆%20Profile%20Achievements-5%20%2F%207%20Unlocked-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="5 of 7 achievements unlocked"/>
+</a>
 
-*5 of 7 earnable GitHub profile achievements unlocked*
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="130">
+<a href="https://github.com/MuhammadLaiqAli?achievement=galaxy-brain&tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="92" alt="Galaxy Brain"/>
+</a>
+<br/><b>Galaxy Brain</b><br/><sub>Accepted answers</sub>
+</td>
+<td align="center" width="130">
+<a href="https://github.com/MuhammadLaiqAli?achievement=pair-extraordinaire&tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="92" alt="Pair Extraordinaire"/>
+</a>
+<br/><b>Pair Extraordinaire</b> <sup>×2</sup><br/><sub>Co-authored delivery</sub>
+</td>
+<td align="center" width="130">
+<a href="https://github.com/MuhammadLaiqAli?achievement=yolo&tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="92" alt="YOLO"/>
+</a>
+<br/><b>YOLO</b><br/><sub>Ship with confidence</sub>
+</td>
+<td align="center" width="130">
+<a href="https://github.com/MuhammadLaiqAli?achievement=quickdraw&tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="92" alt="Quickdraw"/>
+</a>
+<br/><b>Quickdraw</b><br/><sub>Move fast</sub>
+</td>
+<td align="center" width="130">
+<a href="https://github.com/MuhammadLaiqAli?achievement=pull-shark&tab=achievements">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="92" alt="Pull Shark"/>
+</a>
+<br/><b>Pull Shark</b><br/><sub>Merged PRs</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Core Competencies
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Core%20Competencies&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Core Competencies"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AI & Machine Learning**  
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI ML icons" /><br/>
+
+**🤖 AI & Machine Learning**  
 AI automation · ML pipelines · predictive analytics · model training & validation · feature engineering · ModelOps · automated decision systems
 
-**Python Backend**  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Python backend icons" /><br/>
+
+**🐍 Python Backend**  
 Django · Flask · REST APIs · microservices · webhooks · API integrations · scalable server-side architecture
 
-**Full-Stack SaaS**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,php,laravel" alt="Full-stack icons" /><br/>
+
+**🌐 Full-Stack SaaS**  
 LAMP · MEAN · MERN · React/Node · responsive web apps · e-commerce · enterprise portals
 
 </td>
 <td width="50%" valign="top">
 
-**Automation & Integrations**  
+<img src="https://skillicons.dev/icons?i=nodejs,githubactions,docker" alt="Automation icons" /><br/>
+
+**⚡ Automation & Integrations**  
 Zapier · CRM workflows · SaaS-to-SaaS · scheduled jobs · follow-up automation · operational platforms
 
-**Data & Analytics**  
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" alt="Data icons" /><br/>
+
+**📊 Data & Analytics**  
 Dashboards · reporting · lead scoring · forecasting · database optimization · caching strategies
 
-**Architecture & Leadership**  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" alt="Architecture icons" /><br/>
+
+**🏗️ Architecture & Leadership**  
 System design · cloud deployment · secure APIs · technical leadership · stakeholder delivery · production support
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Domains%20Delivered-10%2B%20Industries-238636?style=for-the-badge&logo=target&logoColor=white" alt="Domains delivered"/>
+
+</div>
+
+<br/>
+
 **Domains delivered:** sales automation · customer support · healthcare/medtech · real estate · property management · education · sports discovery · service marketplaces · data intelligence
 
 ---
 
-## Career Journey
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Career%20Journey&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Career Journey"/>
 
-| Period | Role | Organization |
-|--------|------|--------------|
-| **Apr 2024 – Present** | AI Automation Lead & ML Analyst | **Sovanza**, Pakistan (Hybrid) |
-| **Apr 2023 – Mar 2024** | Senior Software Engineer | **Ebryx (Pvt.) Ltd.**, Pakistan |
-| **Sep 2022 – Mar 2024** | Senior Python Engineer | **Pricod**, USA (Remote) |
-| **Mar 2022 – Feb 2023** | Senior Full Stack Developer | **TeknoFlair**, Karachi (Remote) |
-| **Mar 2020 – Feb 2022** | Senior Web Developer | **TechVengers**, Pakistan |
-| **Jan 2018 – Feb 2020** | Web Developer | **Muzintech**, Lahore |
+<table>
+<tr>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">📅 Period</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">💼 Role</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🏢 Organization</font></th>
+</tr>
+<tr>
+<td><b>Apr 2024 – Present</b></td>
+<td>AI Automation Lead & ML Analyst</td>
+<td><b>Sovanza</b>, Pakistan (Hybrid)</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Apr 2023 – Mar 2024</b></td>
+<td>Senior Software Engineer</td>
+<td><b>Ebryx (Pvt.) Ltd.</b>, Pakistan</td>
+</tr>
+<tr>
+<td><b>Sep 2022 – Mar 2024</b></td>
+<td>Senior Python Engineer</td>
+<td><b>Pricod</b>, USA (Remote)</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Mar 2022 – Feb 2023</b></td>
+<td>Senior Full Stack Developer</td>
+<td><b>TeknoFlair</b>, Karachi (Remote)</td>
+</tr>
+<tr>
+<td><b>Mar 2020 – Feb 2022</b></td>
+<td>Senior Web Developer</td>
+<td><b>TechVengers</b>, Pakistan</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Jan 2018 – Feb 2020</b></td>
+<td>Web Developer</td>
+<td><b>Muzintech</b>, Lahore</td>
+</tr>
+</table>
 
 <details>
 <summary><b>Highlights — Sovanza (current)</b></summary>
@@ -137,29 +220,94 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 ---
 
-## Selected Projects
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Selected%20Projects&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Selected Projects"/>
 
-| Project | Role | Impact |
-|---------|------|--------|
-| **LeadPulse AI** | AI Product Architect | Lead scoring, conversion models, automated sales follow-up |
-| **SupportFlow AI** | AI Automation Engineer | Request classification, routing & support triage workflows |
-| **ModelOps Studio** | ML Platform Engineer | Training, validation, deployment & monitoring lifecycle |
-| **InsightForge Analytics** | Predictive Analytics Engineer | Business forecasting & decision-ready dashboards |
-| **AutoFlow SaaS Automation** | Automation Architect | Cross-platform SaaS/API workflow orchestration |
-| **LSI — Life Science Intelligence** | Full-Stack / Data Platform | Healthcare market intelligence & medtech analytics |
-| **Soluber AI** | AI Platform Contributor | Multilingual LLM assistant & user communication flows |
-| **Practice Finder** | Mobile / Full-Stack | Property discovery, saved listings, mobile real-estate UX |
-| **Pikyme** | Full-Stack SaaS | Landlord–tenant messaging & property management |
-| **YouCanFix** | Marketplace Developer | Service marketplace connecting users with technicians |
-| **FindyMyPlayer** | Full-Stack Product | Sports discovery — athletes, teams, scouting |
-| **Irevu** | EdTech Developer | School support & administrative digital operations |
-| **JeepCNX** | Full-Stack Developer | Community platform — customization, engagement, marketplace |
-| **Pulstrack** | Analytics Developer | Performance metrics & operational reporting |
-| **Isintel** | Data Intelligence | Analytics dashboards & strategic insight modules |
+<table>
+<tr>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🚀 Project</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🎯 Role</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">📈 Impact</font></th>
+</tr>
+<tr>
+<td><b>LeadPulse AI</b></td>
+<td>AI Product Architect</td>
+<td>Lead scoring, conversion models, automated sales follow-up</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>SupportFlow AI</b></td>
+<td>AI Automation Engineer</td>
+<td>Request classification, routing & support triage workflows</td>
+</tr>
+<tr>
+<td><b>ModelOps Studio</b></td>
+<td>ML Platform Engineer</td>
+<td>Training, validation, deployment & monitoring lifecycle</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>InsightForge Analytics</b></td>
+<td>Predictive Analytics Engineer</td>
+<td>Business forecasting & decision-ready dashboards</td>
+</tr>
+<tr>
+<td><b>AutoFlow SaaS Automation</b></td>
+<td>Automation Architect</td>
+<td>Cross-platform SaaS/API workflow orchestration</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>LSI — Life Science Intelligence</b></td>
+<td>Full-Stack / Data Platform</td>
+<td>Healthcare market intelligence & medtech analytics</td>
+</tr>
+<tr>
+<td><b>Soluber AI</b></td>
+<td>AI Platform Contributor</td>
+<td>Multilingual LLM assistant & user communication flows</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Practice Finder</b></td>
+<td>Mobile / Full-Stack</td>
+<td>Property discovery, saved listings, mobile real-estate UX</td>
+</tr>
+<tr>
+<td><b>Pikyme</b></td>
+<td>Full-Stack SaaS</td>
+<td>Landlord–tenant messaging & property management</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>YouCanFix</b></td>
+<td>Marketplace Developer</td>
+<td>Service marketplace connecting users with technicians</td>
+</tr>
+<tr>
+<td><b>FindyMyPlayer</b></td>
+<td>Full-Stack Product</td>
+<td>Sports discovery — athletes, teams, scouting</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Irevu</b></td>
+<td>EdTech Developer</td>
+<td>School support & administrative digital operations</td>
+</tr>
+<tr>
+<td><b>JeepCNX</b></td>
+<td>Full-Stack Developer</td>
+<td>Community platform — customization, engagement, marketplace</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Pulstrack</b></td>
+<td>Analytics Developer</td>
+<td>Performance metrics & operational reporting</td>
+</tr>
+<tr>
+<td><b>Isintel</b></td>
+<td>Data Intelligence</td>
+<td>Analytics dashboards & strategic insight modules</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=90&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -206,16 +354,29 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 ---
 
-## Education
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Education&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Education"/>
 
-| Degree | Institution | Years |
-|--------|-------------|-------|
-| **MS Data Science** *(In Progress)* | FAST National University of Computer and Emerging Sciences — Lahore | **Continuing** |
-| **BS Software Engineering** | FAST National University of Computer and Emerging Sciences — Lahore | **2014 – 2018** |
+<table>
+<tr>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🎓 Degree</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🏫 Institution</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">📅 Years</font></th>
+</tr>
+<tr>
+<td><b>MS Data Science</b> <img src="https://img.shields.io/badge/In%20Progress-Continuing-238636?style=flat-square" alt="In Progress"/></td>
+<td>FAST National University of Computer and Emerging Sciences — Lahore</td>
+<td><b>Continuing</b></td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>BS Software Engineering</b> <img src="https://img.shields.io/badge/Completed-2018-58A6FF?style=flat-square" alt="Completed"/></td>
+<td>FAST National University of Computer and Emerging Sciences — Lahore</td>
+<td><b>2014 – 2018</b></td>
+</tr>
+</table>
 
 ---
 
-## GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=90&section=header&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&animation=twinkling" alt="GitHub Analytics"/>
 
 <div align="center">
 
@@ -230,15 +391,34 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 ---
 
-## Impact at a Glance
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Impact%20at%20a%20Glance&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Impact at a Glance"/>
 
-| | |
-|---|---|
-| **Experience** | 7+ years · 6 roles · MS Data Science @ FAST-NUCES (continuing) · BS SE (2018) |
-| **Current** | Lead AI / ML @ **Sovanza** — automation, pipelines, enterprise APIs |
-| **Products** | **15+** platforms across **10+** business domains |
-| **ML delivery** | 5-stage pipelines from raw data to deployment-ready automation |
-| **Open source** | [NexusForge](https://github.com/MuhammadLaiqAli/NexusForge) — enterprise DDD, Django, 24 bounded contexts |
+<table>
+<tr>
+<th align="left" bgcolor="#0f3460" width="22%"><font color="#ffffff">Metric</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">Summary</font></th>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Experience-7%2B%20Years-0f3460?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience"/></td>
+<td>6 roles · MS Data Science @ FAST-NUCES (continuing) · BS SE (2018)</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td align="center"><img src="https://img.shields.io/badge/Current-Sovanza-238636?style=for-the-badge&logo=robot&logoColor=white" alt="Current role"/></td>
+<td>Lead AI / ML — automation, pipelines, enterprise APIs</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Products-15%2B-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Products"/></td>
+<td><b>15+</b> platforms across <b>10+</b> business domains</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td align="center"><img src="https://img.shields.io/badge/ML%20Delivery-5%20Stages-A371F7?style=for-the-badge&logo=python&logoColor=white" alt="ML delivery"/></td>
+<td>End-to-end pipelines from raw data to deployment-ready automation</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Open%20Source-NexusForge-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/></td>
+<td><a href="https://github.com/MuhammadLaiqAli/NexusForge"><b>NexusForge</b></a> — enterprise DDD, Django, 24 bounded contexts</td>
+</tr>
+</table>
 
 ---
 
