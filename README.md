@@ -3,10 +3,11 @@
 
 <div align="center">
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Lead+AI+Engineer+%40+Sovanza;ML+pipelines+%7C+Django+%7C+Flask+%7C+SaaS+platforms;15%2B+products+across+10%2B+business+domains;From+data+preprocessing+to+deployment-ready+automation" alt="Typing intro" />
-</a>
+### Lead AI Engineer · Senior Full-Stack Developer · AI Automation Architect
+
+**AI Automation Lead @ Sovanza** · Lahore, Pakistan · FAST-NUCES (BS Software Engineering)
+
+Lead AI engineer with **7+ years** of experience building AI automation, ML pipelines, and enterprise SaaS on **Python, Django, Flask, LAMP, MEAN, and MERN**. I deliver **15+ products** across healthcare, real estate, education, marketplaces, and operations—from **data preprocessing and feature engineering** through **model training, backend APIs, and deployment-ready automation**.
 
 <br/>
 
@@ -14,8 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-laiqazhar456@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laiqazhar456@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B92%20309%207920947-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923097920947)
 [![GitHub](https://img.shields.io/badge/GitHub-MuhammadLaiqAli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadLaiqAli)
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadLaiqAli&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
 
 </div>
 
