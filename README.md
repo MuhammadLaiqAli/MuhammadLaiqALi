@@ -416,7 +416,7 @@ System design · AWS/cloud deployment · secure APIs · technical leadership · 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Certifications%20%26%20Honors&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Certifications and Honors"/>
+### Certifications and Honors
 
 <table>
 <tr>
@@ -477,6 +477,10 @@ System design · AWS/cloud deployment · secure APIs · technical leadership · 
 <td>End-to-end pipelines from raw data to deployment-ready automation</td>
 </tr>
 <tr>
+<td align="center"><img src="https://img.shields.io/badge/Sovanza-SovanzaForge-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Sovanza"/></td>
+<td><b>SovanzaForge</b> — private AI automation platform · 100k+ LOC · lead scoring & ML pipelines</td>
+</tr>
+<tr bgcolor="#f6f8fa">
 <td align="center"><img src="https://img.shields.io/badge/Open%20Source-NexusForge-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/></td>
 <td><a href="https://github.com/MuhammadLaiqAli/NexusForge"><b>NexusForge</b></a> — enterprise DDD, Django, 24 bounded contexts</td>
 </tr>
