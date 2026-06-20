@@ -477,8 +477,8 @@ System design · AWS/cloud deployment · secure APIs · technical leadership · 
 <td>End-to-end pipelines from raw data to deployment-ready automation</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Sovanza-SovanzaForge-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Sovanza"/></td>
-<td><b>SovanzaForge</b> — private AI automation platform · 100k+ LOC · lead scoring & ML pipelines</td>
+<td align="center"><img src="https://img.shields.io/badge/Sovanza-AutoFlow-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="Sovanza"/></td>
+<td><b>AutoFlow</b> — private SaaS automation platform · lead scoring & CRM workflows</td>
 </tr>
 <tr bgcolor="#f6f8fa">
 <td align="center"><img src="https://img.shields.io/badge/Open%20Source-NexusForge-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open source"/></td>
