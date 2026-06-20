@@ -1,13 +1,13 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Muhammad%20Laiq%20Ali&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Lead%20AI%20Engineer%20%7C%20Senior%20Full-Stack%20Developer%20%7C%20AI%20Automation%20Architect&descAlignY=52&descSize=15&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Muhammad%20Laiq%20Ali&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Lead%20AI%20Engineer%20%7C%20Senior%20Full-Stack%20Developer%20%7C%20AI%20Automation%20Architect%20%7C%20ML%20Engineer&descAlignY=52&descSize=14&descAlign=50"/>
 
 <div align="center">
 
-### Lead AI Engineer · Senior Full-Stack Developer · AI Automation Architect
+### Lead AI Engineer · Senior Full-Stack Developer · AI Automation Architect · Machine Learning Engineer
 
-**AI Automation Lead @ Sovanza** · Lahore, Pakistan · **MS Data Science** @ FAST-NUCES (continuing) · BS Software Engineering (2018)
+**AI Automation Lead @ Sovanza** · Lahore, Pakistan · **MS Computer Science** @ FAST-NUCES (2025 – Present) · BS Software Engineering (2018)
 
-Lead AI engineer with **7+ years** of experience building AI automation, ML pipelines, and enterprise SaaS on **Python, Django, Flask, LAMP, MEAN, and MERN**. I deliver **15+ products** across healthcare, real estate, education, marketplaces, and operations—from **data preprocessing and feature engineering** through **model training, backend APIs, and deployment-ready automation**.
+Lead AI engineer with **9+ years** of experience across **AI engineering, LLM training & evaluation, ML pipelines, Python/Django/Flask backends, AWS/cloud deployments, and enterprise SaaS**. Delivered **15+ products** across **10+ business domains**—from **data preprocessing and feature engineering** through **model training, backend APIs, and deployment-ready automation**, including frontier-model evaluation for **Claude, Gemini, Microsoft, Meta, Amazon, and GitHub** coding workflows.
 
 <br/>
 
@@ -26,27 +26,35 @@ Lead AI engineer with **7+ years** of experience building AI automation, ML pipe
 name: Muhammad Laiq Ali
 location: Lahore, Pakistan
 education:
-  - MS Data Science (In Progress) — FAST-NUCES, Lahore
-  - BS Software Engineering — FAST-NUCES, Lahore (2014–2018)
-current_role: AI Automation Lead & ML Analyst @ Sovanza (Apr 2024 – Present)
+  - MS Computer Science (In Progress) — FAST-NUCES, Pakistan (2025 – Present)
+  - BS Software Engineering — FAST-NUCES, Lahore (2014 – 2018)
+current_roles:
+  - AI Automation Lead & ML Analyst @ Sovanza (Apr 2024 – Present)
+  - AI Evaluation Specialist @ AfterQuery (May 2026 – Present)
+  - LLM Training Team Lead @ Turing (Apr 2021 – Apr 2026)
 titles:
   - Lead AI Engineer
   - Senior Full-Stack Developer
   - AI Automation Architect
   - Machine Learning Engineer
   - Django & Flask Backend Engineer
-experience: 7+ years · 6 engineering roles
+  - SaaS Platform Builder
+experience: 9+ years · 8 engineering roles
 platforms: 15+ AI, SaaS, analytics & enterprise products
 domains: healthcare, real estate, edtech, marketplaces, sales automation, ops
-ml_stages: preprocessing → features → training → APIs → deployment automation
-stacks: Python, Django, Flask, LAMP, MEAN, MERN, microservices, Zapier, cloud
+ml_stages: preprocessing → features → training → validation → deployment automation
+llm_work: Claude Sonnet/Opus, Gemini, Microsoft, Meta, Amazon, GitHub model evaluation
+stacks: Python, Django, Flask, LAMP, MEAN, MERN, AWS, microservices, Zapier
+certifications:
+  - AWS Certified Developer — The Spirit Institute (Mar 2020)
+  - Gold Medalist & Dean's List — FAST-NUCES (Apr 2018)
 contact:
   email: laiqazhar456@gmail.com
   phone: +92 309 7920947
   linkedin: muhammad-laiq-ali-380824200
 ```
 
-**Lead AI Engineer** and **Senior Full-Stack Developer** with **7+ years** across AI automation, ML pipelines, Python/Django/Flask backends, REST APIs, and enterprise SaaS. I deliver end-to-end—from data preprocessing and feature engineering through model training, backend/API implementation, and deployment-ready automation—using LAMP, MEAN, MERN, microservices, Zapier workflows, and cloud-native patterns focused on maintainable architecture and data-driven decisions.
+**Lead AI Engineer** and **Senior Full-Stack Developer** with **9+ years** across AI automation, **LLM training & evaluation**, ML pipelines, Python/Django/Flask backends, REST APIs, AWS/cloud deployments, and enterprise SaaS. I deliver end-to-end—from data preprocessing and feature engineering through model training, backend/API implementation, and deployment-ready automation—while evaluating frontier AI models across coding, writing, multimodal, and reasoning workflows.
 
 > **Engineer by discipline. Architect by experience. AI builder by passion.**
 
@@ -109,8 +117,8 @@ contact:
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI ML icons" /><br/>
 
-**🤖 AI & Machine Learning**  
-AI automation · ML pipelines · predictive analytics · model training & validation · feature engineering · ModelOps · automated decision systems
+**🤖 AI, LLM & Machine Learning**  
+AI automation · LLM training & evaluation · response validation · multimodal/image analysis · prompt evaluation · model comparison · ML pipelines · predictive analytics · feature engineering · ModelOps
 
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi" alt="Python backend icons" /><br/>
 
@@ -138,7 +146,7 @@ Dashboards · reporting · lead scoring · forecasting · database optimization 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" alt="Architecture icons" /><br/>
 
 **🏗️ Architecture & Leadership**  
-System design · cloud deployment · secure APIs · technical leadership · stakeholder delivery · production support
+System design · AWS/cloud deployment · secure APIs · technical leadership · stakeholder delivery · production support
 
 </td>
 </tr>
@@ -166,8 +174,18 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 </tr>
 <tr>
 <td><b>Apr 2024 – Present</b></td>
-<td>AI Automation Lead & ML Analyst</td>
+<td>AI Automation Lead & Machine Learning Analyst</td>
 <td><b>Sovanza</b>, Pakistan (Hybrid)</td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>May 2026 – Present</b></td>
+<td>AI Evaluation Specialist / Project Contributor</td>
+<td><b>AfterQuery</b> (Remote)</td>
+</tr>
+<tr>
+<td><b>Apr 2021 – Apr 2026</b></td>
+<td>LLM Training Team Lead / Machine Learning Engineer</td>
+<td><b>Turing</b> (Remote)</td>
 </tr>
 <tr bgcolor="#f6f8fa">
 <td><b>Apr 2023 – Mar 2024</b></td>
@@ -201,9 +219,31 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 
 - Lead AI automation architecture, ML pipeline delivery, backend/API implementation, and workflow quality  
 - 5-stage ML pipelines: preprocessing → features → training → validation → deployment-ready automation  
+- AWS-oriented deployments: cloud planning, API hosting, environment config, monitoring & reliability  
 - Python/Django/Flask services & REST APIs integrated with enterprise applications  
-- Zapier automation across CRM, comms tools, and operational platforms  
+- Zapier & AWS automation across CRM, comms tools, and operational platforms  
 - Product architecture for lead scoring, support routing, lifecycle automation, and predictive analytics  
+
+</details>
+
+<details>
+<summary><b>Highlights — AfterQuery (current)</b></summary>
+
+- AI evaluation contributor across Project Silver, Pluto, Artifacts, Rewrite, Claw, Images, Blueprint, Brick  
+- Evaluate AI-generated content, model responses, dataset quality, reasoning depth & output reliability  
+- Review task quality for accuracy, edge cases, instruction alignment & human-expert usefulness  
+- Frontier-model evaluation: Claude Sonnet 4/4.6, Opus 4/4.7/4.8, Haiku 4.5 workflows  
+- Structured feedback to improve dataset consistency, rubric clarity & model-comparison quality  
+
+</details>
+
+<details>
+<summary><b>Highlights — Turing (Apr 2021 – Apr 2026)</b></summary>
+
+- Progressed from ML Engineer → Pod Lead → Team Lead across LLM training & AI evaluation  
+- Microsoft, Meta, Amazon, GitHub problem-solving models · Gemini response/image analysis · Claude Sonnet/Opus  
+- Review AI answers for accuracy, reasoning, code correctness, safety & instruction alignment  
+- Led reviewer guidance, feedback standardization, rubric calibration & structured rationale writing  
 
 </details>
 
@@ -363,14 +403,36 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 <th align="left" bgcolor="#0f3460"><font color="#ffffff">📅 Years</font></th>
 </tr>
 <tr>
-<td><b>MS Data Science</b> <img src="https://img.shields.io/badge/In%20Progress-Continuing-238636?style=flat-square" alt="In Progress"/></td>
-<td>FAST National University of Computer and Emerging Sciences — Lahore</td>
-<td><b>Continuing</b></td>
+<td><b>MS Computer Science</b> <img src="https://img.shields.io/badge/In%20Progress-2025–Present-238636?style=flat-square" alt="In Progress"/></td>
+<td>FAST National University of Computer and Emerging Sciences — Pakistan</td>
+<td><b>2025 – Present</b></td>
 </tr>
 <tr bgcolor="#f6f8fa">
-<td><b>BS Software Engineering</b> <img src="https://img.shields.io/badge/Completed-2018-58A6FF?style=flat-square" alt="Completed"/></td>
+<td><b>BS Software Engineering</b> <img src="https://img.shields.io/badge/Gold%20Medalist-Dean's%20List-FBC02D?style=flat-square" alt="Honors"/> <img src="https://img.shields.io/badge/Completed-2018-58A6FF?style=flat-square" alt="Completed"/></td>
 <td>FAST National University of Computer and Emerging Sciences — Lahore</td>
 <td><b>2014 – 2018</b></td>
+</tr>
+</table>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:0f3460&height=100&section=header&text=Certifications%20%26%20Honors&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Certifications and Honors"/>
+
+<table>
+<tr>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🏅 Credential</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">🏫 Issuer</font></th>
+<th align="left" bgcolor="#0f3460"><font color="#ffffff">📅 Date</font></th>
+</tr>
+<tr>
+<td><b>AWS Certified Developer</b></td>
+<td>The Spirit Institute</td>
+<td><b>March 2020</b></td>
+</tr>
+<tr bgcolor="#f6f8fa">
+<td><b>Gold Medalist & Dean's List</b></td>
+<td>FAST-NUCES</td>
+<td><b>April 2018</b></td>
 </tr>
 </table>
 
@@ -399,12 +461,12 @@ System design · cloud deployment · secure APIs · technical leadership · stak
 <th align="left" bgcolor="#0f3460"><font color="#ffffff">Summary</font></th>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/Experience-7%2B%20Years-0f3460?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience"/></td>
-<td>6 roles · MS Data Science @ FAST-NUCES (continuing) · BS SE (2018)</td>
+<td align="center"><img src="https://img.shields.io/badge/Experience-9%2B%20Years-0f3460?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience"/></td>
+<td>8 roles · MS Computer Science @ FAST-NUCES (2025 – Present) · BS SE Gold Medalist (2018)</td>
 </tr>
 <tr bgcolor="#f6f8fa">
-<td align="center"><img src="https://img.shields.io/badge/Current-Sovanza-238636?style=for-the-badge&logo=robot&logoColor=white" alt="Current role"/></td>
-<td>Lead AI / ML — automation, pipelines, enterprise APIs</td>
+<td align="center"><img src="https://img.shields.io/badge/Current-Sovanza%20%2B%20AfterQuery-238636?style=for-the-badge&logo=robot&logoColor=white" alt="Current role"/></td>
+<td>Lead AI / ML @ Sovanza · AI Evaluation @ AfterQuery · LLM Training Lead @ Turing</td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Products-15%2B-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Products"/></td>
@@ -432,7 +494,7 @@ Architect before you build · Scale without rewriting · Automate wherever possi
 
 <div align="center">
 
-Open to **AI platform engineering**, **automation architecture**, **technical leadership**, and **remote collaborations**.
+Open to **AI platform engineering**, **LLM training & evaluation**, **automation architecture**, **technical leadership**, and **remote collaborations**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Laiq_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-laiq-ali-380824200)
 [![Email](https://img.shields.io/badge/Email-laiqazhar456@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laiqazhar456@gmail.com)
